@@ -6,5 +6,5 @@ ssss
 <hr>
 ssdfg
 
-texto y saltamos 
+texto y saltamos  <br>
 a siguiente linea
