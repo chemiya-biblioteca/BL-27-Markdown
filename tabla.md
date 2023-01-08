@@ -1,23 +1,14 @@
-<table class="default">
+<table >
 
   <tr>
-
-    <td>Celda 1</td>
-
-    <td>Celda 2</td>
-
-    <td>Celda 3</td>
-
+    <th>Celda 1</th>
+    <th>Celda 2</th>
+    <th>Celda 3</th>
   </tr>
-
   <tr>
-
     <td>Celda 4</td>
-
     <td>Celda 5</td>
-
     <td>Celda 6</td>
-
   </tr>
 
 </table>
